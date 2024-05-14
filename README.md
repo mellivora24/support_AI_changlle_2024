@@ -1,2 +1,3 @@
-# support_AI_changlle_2024
-Embbeded code for smartglasses
+# AI changlle 2024
+## Topic: Smart Glasses
+Software and embbeded code for smart glasses
